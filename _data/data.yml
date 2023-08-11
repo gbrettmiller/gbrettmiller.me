@@ -1,0 +1,237 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+    position: left # position of the sidebar : left or right
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name: g BRETT miller
+    tagline: # what is my tagline?
+    avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    email: gbrettmiller@pm.me
+    phone: 
+    timezone: America/Central Timezone
+    citizenship:
+    website: gbrettmiller.blog #do not add http://
+    # website: thinkinginjourneys.com
+    linkedin: gbrettmiller
+    github: gbrettmiller
+    twitter: '@gbrettmiller'
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    goodreads: # Number-Username, e.g. 123456-alandoe
+    pdf: # link to resume pdf
+
+    languages:
+      title: Languages
+      info:
+        - idiom: English
+          level: Native
+
+    interests:
+      title: Interests
+      info:
+        - item: Climbing
+          link:
+
+        - item: Tennis
+          link:
+
+        - item: 
+          link:
+
+career-profile:
+    title: Career Profile
+    summary: |
+      I design and deliver products and services to meet the needs of the humans who use them. 
+      
+education:
+    title: Education
+    info:
+      - degree: MS in Administration
+        university: Central Michigan University
+        time: 
+        details: |
+          Describe your study here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+          sociis natoque penatibus et magnis dis parturient montes, nascetur
+          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+          pretium quis, sem.
+            - Bullet point
+            - Bullet point
+      - degree: BS in Electrical Engineering
+        university: University of Missouri - Rolla
+        time: 
+        details: |
+          Describe your study here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+          sociis natoque penatibus et magnis dis parturient montes, nascetur
+          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+          pretium quis, sem.
+            - Bullet point
+            - Bullet point
+
+experiences:
+    title: Experience (2011 - present)
+    info:
+      - role: UX Research, Service Design, Product Management
+        time: 2011 - Present
+        company: DSA, Inc.
+        details: |
+          Describe your role here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+          Cum sociis natoque penatibus et magnis dis parturient montes,
+          nascetur ridiculus mus. Donec quam felis, ultricies nec,
+          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
+          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
+          error sit voluptatem accusantium doloremque laudantium, totam rem
+          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
+          architecto beatae vitae dicta sunt explicabo.
+            - Bullet point
+            - Bullet point
+      - role: Software Development, Product Management
+        time: 2019 - 2022
+        company: ACLU-MO (volunteer)
+        details: |
+          A complaint status notification app built on AWS serverless components based on 
+          proof of concept built during Code With a Cause 2019. 
+      - role: UX Research, Service Design
+        time: 2019
+        company: Code With a Cause
+        details: |
+          Describe your role here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+          Cum sociis natoque penatibus et magnis dis parturient montes,
+          nascetur ridiculus mus. Donec quam felis, ultricies nec,
+          pellentesque eu, pretium quis, sem.
+            - Bullet point
+            - Bullet point
+      - role: UX Research, Product Management
+        time: 2018
+        company: Hack 4 Autism
+        details: |
+          Describe your role here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+          Cum sociis natoque penatibus et magnis dis parturient montes,
+          nascetur ridiculus mus. Donec quam felis, ultricies nec,
+          pellentesque eu, pretium quis, sem.
+            - Bullet point
+            - Bullet point
+      - role: Research, Product Management
+        time: 2014
+        company: GlobalHack II
+        details: |
+          Describe your role here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+          Cum sociis natoque penatibus et magnis dis parturient montes,
+          nascetur ridiculus mus. Donec quam felis, ultricies nec,
+          pellentesque eu, pretium quis, sem.
+            - Bullet point
+            - Bullet point
+
+experiencespast:
+    title: Experience (prior to 2011)
+    info:
+      - role: Senior Systems Engineer
+        time: 2001 - 2011
+        company: Janus Researcy Group, Inc.
+        details: |
+          stuff
+      - role: Director, Knowledge Management
+        time: 1999 - 2004
+        company: US Army Reserves
+        details: |
+          stuff stuff
+
+
+certifications:
+    title: # Certifications
+    list:
+      - name: AWS Certified Cloud Professional (CCP)
+        start: 
+        end: 2023
+        organization: AWS
+        credentialid: 12345
+        credentialurl: https://aws.com/ccp
+        credentialname: AWS CCP
+        details: |
+          A certification that demonstrates....
+
+projects:
+    title:  Projects
+    intro: >
+      You can list your side projects in this
+      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    assignments:
+      - title: ACLU-MO eStat
+        link: 
+        tagline: >
+         A complaint status notification app built using AWS Serverless components.
+
+      - title: Meet Me in St. Louis 
+        link: "#"
+        tagline: "A trampoline and tumbling eligibility competition."
+
+      - title: Tempo
+        link: "#"
+        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+
+      - title: Atom
+        link: "#"
+        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+
+      - title: Delta
+        link: "#"
+        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+
+oss:
+    title: OSS Contributions
+    intro: >
+     text
+    contributions:
+      - title: Tempo
+        link: "#"
+        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+
+publications:
+    title: Speaking and Facilitation
+    intro: |
+      You can list your publications in this section. Lorem ipsum dolor sit
+      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+      bibendum fringilla a eu lectus.
+    papers:
+      - title: The Art of Computer Programming
+        link: "#"
+        authors: 
+        conference: Addison-Wesley, 1968
+
+      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+        link: "#"
+        authors: 
+        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+
+      - title: A syntax directed compiler for Algol 60
+        link: "#"
+        authors: 
+        conference: "Comm. ACM 4 (1961), 51–55"
+
+skills:
+    title: Skills &amp; Proficiency
+
+    toolset:
+      - name: Javascript & jQuery
+        level: 98%
+
+      - name: HTML5 & CSS
+        level: 95%
+
+      - name: WordPress
+        level: 85%
+
+footer: >
+    Jekyll theme designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
