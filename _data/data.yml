@@ -112,7 +112,7 @@ experiences:
             - Bullet point
       - role: UX Research, Product Management
         time: 2018
-        company: Hack 4 Autism
+        company: Hack4Autism
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -138,7 +138,7 @@ experiencespast:
     info:
       - role: Senior Systems Engineer
         time: 2001 - 2011
-        company: Janus Researcy Group, Inc.
+        company: Janus Research Group, Inc.
         details: |
           stuff
       - role: Director, Knowledge Management
@@ -153,10 +153,10 @@ certifications:
     list:
       - name: AWS Certified Cloud Professional (CCP)
         start: 
-        end: 2023
+        end: in progress
         organization: AWS
-        credentialid: 12345
-        credentialurl: https://aws.com/ccp
+        credentialid: 
+        credentialurl:
         credentialname: AWS CCP
         details: |
           A certification that demonstrates....
@@ -205,33 +205,71 @@ publications:
       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
       bibendum fringilla a eu lectus.
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: 
-        conference: Addison-Wesley, 1968
+      - title: "Remote work - the basics"
+        link: ""
+        authors: "presenter"
+        conference: "STLX - Remote work webinar 2020"
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: 
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: "Designing for the Future We Want"
+        link: ""
+        authors: "facilitator"
+        conference: "STLX - World Usability Day - 2019"
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: 
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: "Individual Education Plan (IEP) as tool for inclusion - a service design perspective"
+        link: ""
+        authors: "panelist"
+        conference: "World Usability Day - 2017"
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Skills and Tools
 
+    skills: 
+      - name: Troubleshooting
+        level: 99%
+
+      - name: Understanding user needs
+        level: 95%
+      
+      - name: Facilitation
+        level: 70%
+
+      - name: Community Management
+        level: 80%
+
+      - name: Remote work
+        level: 100%
+
+      - name: Hybrid work
+        level: 100%
+    
     toolset:
       - name: Javascript & jQuery
-        level: 98%
+        level: 75%
 
       - name: HTML5 & CSS
-        level: 95%
+        level: 90%
 
-      - name: WordPress
+      - name: Python
+        level: 40%
+
+      - name: git
+        level: 40%
+
+      - name: Command Line
+        level: 50%
+        
+      - name: Mural / Miro
+        level: 66%
+
+      - name: WordPress CMS
         level: 85%
 
+      - name: WordPress development
+        level: 40%
+
+
+
+    
+
 footer: >
-    Jekyll theme designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    Based on a theme designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
