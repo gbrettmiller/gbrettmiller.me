@@ -44,6 +44,12 @@ sidebar:
         - item: Books
           link:
 
+personal-profile:
+    # Profile information
+    name: g BRETT miller
+    tagline: jack of all trades, master of some
+    avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
 career-profile:
     title: Career Profile
     summary: |
@@ -82,17 +88,15 @@ experiences:
         time: 2011 - Present
         company: DSA, Inc.
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
+          Did stuff like...
+          - Conducted extensive user and customer research to inform the migration of a large community of practice (CoP) from a legacy system to milSuite, resulting in significant, immediate cost savings and long-term cost avoidance for the Army
+          - Used observational research to develop initial requirements, select user interviews during development, and coordination with the engineering team to inform design and development of a functional prototype of a video channel feature for our video streaming service
+          - Co-created an online job listing site with a U.S. Army Reserves major command to provide a more efficient and effective process for units to fill vacancies
+          - Designed and developed prototypes for a U.S. Army enterprise level ideation program based on initial input from the customer organization and facilitated further refinement and development of the project through deployment
+          - Conducted extensive user interviews with key stakeholders from an Army training management organization to inform the design, development, and deployment of an updated annual documentation certification process supporting over 100 globally distributed sites, resulting in significant cost avoidance for the organization
+          - Used observational research and interviews with members of the support and technical teams to inform design and implementation of team processes that effectively take into account the needs of the team as well as the customer
+          - Created and serve as executive producer and host of milSuite Spotlight, a podcast featuring customers and users sharing their stories about how they use milSuite to support their mission
+
       - role: Software Development, Product Management
         time: 2019 - 2022
         company: ACLU-MO (volunteer)
