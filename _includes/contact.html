@@ -1,9 +1,9 @@
 <div class="contact-container container-block">
   <ul class="list-unstyled contact-list">
 
-    {% if sidebar.email %}
+    {% if sidebar.email-proxy %}
     <li class="email"><i class="fas fa-envelope"></i>
-      <a href="mailto:{{ sidebar.email }}">{{ sidebar.email }}</a>
+      <a href="mailto:{{ sidebar.email-actual }}">{{ sidebar.email-proxy }}</a>
     </li>
     {% endif %}
 

@@ -8,12 +8,13 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    # name: g BRETT miller
-    # tagline: jack of all trades, master of some
-    # avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: gBRETT miller
+    tagline: jack of all trades, master of some
+    avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: gbrettmiller+resume@pm.me
+    email-actual: gbrettmiller+resume@protonmail.com
+    email-proxy: gbrettmiller@pm.me
     phone: 
     timezone: America/Central Timezone
     citizenship: US
@@ -26,23 +27,7 @@ sidebar:
     goodreads: # Number-Username, e.g. 123456-alandoe
     pdf: # link to resume pdf
 
-    languages:
-      title: Languages
-      info:
-        - idiom: English
-          level: Native
-
-    interests:
-      title: Interests
-      info:
-        - item: Climbing
-          link:
-
-        - item: Tennis
-          link:
-
-        - item: Books
-          link:
+ 
 
 personal-profile:
     # Profile information
@@ -51,7 +36,7 @@ personal-profile:
     avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
 career-profile:
-    title: Career Profile
+    title: Career Summary
     summary: |
       
       I am naturally drawn to the big picture - the "why" and the "so what" and the "how might we" - and at the same time driven to develop a deep understanding of the specializations required to achieve the desired big picture outcomes. I shift as needed from being a generalist, crossing organizational and functional boundaries to see how everything fits together, to being a specialist, working deep in the self-contained silos that make up the parts of the whole. My favorite projects are the ones in which I start out having no idea how I will complete them or how they will actually turn out and for which I am, in a traditional sense, generally unprepared to tackle. 
