@@ -3,7 +3,7 @@
 #
 
 sidebar:
-    position: right # position of the sidebar : left or right
+    position: left # position of the sidebar : left or right
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
@@ -13,12 +13,12 @@ sidebar:
     # avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: gbrettmiller@pm.me
+    email: gbrettmiller+resume@pm.me
     phone: 
     timezone: America/Central Timezone
-    citizenship:
+    citizenship: US
     website: gbrettmiller.blog #do not add http://
-    # website: thinkinginjourneys.com
+    website: gbrettmiller.blog
     linkedin: gbrettmiller
     github: gbrettmiller
     twitter: '@gbrettmiller'
@@ -46,7 +46,7 @@ sidebar:
 
 personal-profile:
     # Profile information
-    name: g BRETT miller
+    name: gBRETT miller
     tagline: jack of all trades, master of some
     avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
