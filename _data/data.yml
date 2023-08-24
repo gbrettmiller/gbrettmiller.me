@@ -68,27 +68,57 @@ education:
             - Bullet point
 
 experiences:
-    title: Experience (2011 - present)
+    title: Experience
     info:
-      - role: UX Research, Service Design, Product Management
-        time: 2011 - Present
+      - role: Operations Lead
+        time: 2021 - present
         company: DSA, Inc.
         details: |
-          Did stuff like...
-          - Conducted extensive user and customer research to inform the migration of a large community of practice (CoP) from a legacy system to milSuite, resulting in significant, immediate cost savings and long-term cost avoidance for the Army
-          - Used observational research to develop initial requirements, select user interviews during development, and coordination with the engineering team to inform design and development of a functional prototype of a video channel feature for our video streaming service
-          - Co-created an online job listing site with a U.S. Army Reserves major command to provide a more efficient and effective process for units to fill vacancies
-          - Designed and developed prototypes for a U.S. Army enterprise level ideation program based on initial input from the customer organization and facilitated further refinement and development of the project through deployment
-          - Conducted extensive user interviews with key stakeholders from an Army training management organization to inform the design, development, and deployment of an updated annual documentation certification process supporting over 100 globally distributed sites, resulting in significant cost avoidance for the organization
+          stuff
           - Used observational research and interviews with members of the support and technical teams to inform design and implementation of team processes that effectively take into account the needs of the team as well as the customer
-          - Created and serve as executive producer and host of milSuite Spotlight, a podcast featuring customers and users sharing their stories about how they use milSuite to support their mission
-
-      - role: Software Development, Product Management
+      
+      - role: Volunteer (Product Management and Development)
         time: 2019 - 2022
         company: ACLU-MO (volunteer)
         details: |
           A complaint status notification app built on AWS serverless components based on 
           proof of concept built during Code With a Cause 2019. 
+
+      - role: Product Management
+        time: 2019 - 2021
+        company: DSA, Inc.
+        details: |
+         stuff
+         - Used observational research to develop initial requirements, select user interviews during development, and coordination with the engineering team to inform design and development of a functional prototype of a video channel feature for our video streaming service
+         - Created and serve as executive producer and host of milSuite Spotlight, a podcast featuring customers and users sharing their stories about how they use milSuite to support their mission
+      
+      - role: Solution Consultant
+        time: 2015 - 2018
+        company: DSA, Inc.
+        details: |
+          stuff
+          - Co-created an online job listing site with a U.S. Army Reserves major command to provide a more efficient and effective process for units to fill vacancies
+          - Designed and developed prototypes for a U.S. Army enterprise level ideation program based on initial input from the customer organization and facilitated further refinement and development of the project through deployment
+          - Conducted extensive user interviews with key stakeholders from an Army training management organization to inform the design, development, and deployment of an updated annual documentation certification process supporting over 100 globally distributed sites, resulting in significant cost avoidance for the organization
+      
+      - role: Community Strategist
+        time: 2013 - 2015
+        company: DSA, Inc.
+        details: |
+          stuff
+      
+      - role: User Research
+        time: 2011 - 2013
+        company: DSA, Inc.
+        details: |
+          - Conducted extensive user and customer research to inform the migration of a large community of practice (CoP) from a legacy system to milSuite, resulting in significant, immediate cost savings and long-term cost avoidance for the Army
+          
+      
+hackathons:      
+    title: Hackathons 
+    intro: |
+      I like to participate in hackathons as a way to stretch outside my comfort zone, to apply what I already know to new situations and to learn new things I can apply to my work in general. Here are some of my favorites from over the past few years.
+    info:
       - role: UX Research, Service Design
         time: 2019
         company: Code With a Cause
@@ -105,53 +135,41 @@ experiences:
         details: |
 
 experiencespast:
-    title: Experience (prior to 2011)
+    title: Other experience
     info:
       - role: Senior Systems Engineer
         time: 2001 - 2011
         company: Janus Research Group, Inc.
-        details: |
-          Senior Systems Engineer for the Army's Warfighter Information Network - Tactical Increment 2
+        details: 
       - role: Director, Knowledge Management
         time: 1999 - 2004
         company: US Army Reserves
-        details: |
-          Led knowledge management team for 78th Division (Training Support)
+        details: 
       - role: Knowledge Management Officer
         time: 1999 - 2001
         company: BAE SYSTEMS
-        details: |
-          Knowledge management officer
+        details: 
       - role: Fielding Officer - Single Channel TACSAT
         time: 1998 - 1999
         company: US Army
-        details: |
-          Total Package Fielding for the AN/PSC-5 Single Channel TACSAT
-      - role: Demonstration Officer - Milstar
+        details: 
+      - role: Demonstrations Manager
         time: 1996 - 1997
         company: US Army
-        details: |
-          Plan, coordinate, and execute demonstrations of the SCAMP man-portable EHF terminal
-      - role: Company Commander
+        details: 
+      - role: Director of Operations (Company Commander)
         time: 1994 - 1995
         company: US Army
-        details: |
-          Commander of an MSE company
-      - role: Director of Logistics (S-4)
+        details:
+      - role: Director of Logistics (Logistics Officer S-4)
         time: 1993 - 1994
         company: US Army
-        details: |
-          Fleet transition from Area Signal Company to Mobile Subscriber Equipment (MSE)
-      - role: Platoon Leader
+        details: 
+      - role: Operations Manager (Platoon Leader)
         time: 1988 - 1991
         company: US Army
-        details: |
-          Director of Operations for communications station supporting an Air Defense battalion Fire Direction Center
+        details: 
        
-          
-                
-
-
 certifications:
     title: # Certifications
     list:
@@ -205,23 +223,30 @@ oss:
 publications:
     title: Speaking and Facilitation
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      A list of select events and talks I have presented or facilitated.
     papers:
+      - title: "Journey Management and the Innovator's Dilemma"
+        link: 
+        role: "presenter"
+        conference: "ProductCamp STL 2023"
       - title: "Remote work - the basics"
-        link: ""
-        authors: "presenter"
+        link: 
+        role: "presenter"
         conference: "STLX - Remote work webinar 2020"
 
       - title: "Designing for the Future We Want"
-        link: ""
-        authors: "facilitator"
+        link: 
+        role: "facilitator"
         conference: "STLX - World Usability Day - 2019"
 
+      - title: JAGConnect - A History of True Culture Change
+        link: https://www.youtube.com/watch?v=GlRnNL3cNfk
+        role: "presenter"
+        conference: "JiveWorld17"
+
       - title: "Individual Education Plan (IEP) as tool for inclusion - a service design perspective"
-        link: ""
-        authors: "panelist"
+        link: 
+        role: "panelist"
         conference: "World Usability Day - 2017"
 
 skills:
