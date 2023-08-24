@@ -39,7 +39,11 @@ career-profile:
     title: Career Summary
     summary: |
       
-      I am naturally drawn to the big picture - the "why" and the "so what" and the "how might we" - and at the same time driven to develop a deep understanding of the specializations required to achieve the desired big picture outcomes. I shift as needed from being a generalist, crossing organizational and functional boundaries to see how everything fits together, to being a specialist, working deep in the self-contained silos that make up the parts of the whole. My favorite projects are the ones in which I start out having no idea how I will complete them or how they will actually turn out and for which I am, in a traditional sense, generally unprepared to tackle. 
+      I am naturally drawn to the big picture - the "why" and the "so what" and the "how might we" - and at the same time driven to develop a deep understanding of the specializations required to achieve the desired big picture outcomes. 
+      
+      I shift as needed from being a generalist, crossing organizational and functional boundaries to see how everything fits together, to being a specialist, working deep in the self-contained silos that make up the parts of the whole. 
+      
+      My favorite projects are the ones in which I start out having no idea how I will complete them or how they will actually turn out and for which I am, in a traditional sense, generally unprepared to tackle. 
       
 education:
     title: Education
@@ -47,72 +51,45 @@ education:
       - degree: MS in Administration
         university: Central Michigan University
         time: 
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+        details:
       - degree: BS in Electrical Engineering
         university: University of Missouri - Rolla
         time: 
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+        details: 
 
 experiences:
     title: Experience
+    intro: 
     info:
       - role: Operations Lead
         time: 2021 - present
         company: DSA, Inc.
-        details: |
-          stuff
-          - Used observational research and interviews with members of the support and technical teams to inform design and implementation of team processes that effectively take into account the needs of the team as well as the customer
+        details: 
       
       - role: Volunteer (Product Management and Development)
         time: 2019 - 2022
         company: ACLU-MO (volunteer)
-        details: |
-          A complaint status notification app built on AWS serverless components based on 
-          proof of concept built during Code With a Cause 2019. 
+        details: 
 
       - role: Product Management
         time: 2019 - 2021
         company: DSA, Inc.
-        details: |
-         stuff
-         - Used observational research to develop initial requirements, select user interviews during development, and coordination with the engineering team to inform design and development of a functional prototype of a video channel feature for our video streaming service
-         - Created and serve as executive producer and host of milSuite Spotlight, a podcast featuring customers and users sharing their stories about how they use milSuite to support their mission
+        details: 
       
       - role: Solution Consultant
         time: 2015 - 2018
         company: DSA, Inc.
-        details: |
-          stuff
-          - Co-created an online job listing site with a U.S. Army Reserves major command to provide a more efficient and effective process for units to fill vacancies
-          - Designed and developed prototypes for a U.S. Army enterprise level ideation program based on initial input from the customer organization and facilitated further refinement and development of the project through deployment
-          - Conducted extensive user interviews with key stakeholders from an Army training management organization to inform the design, development, and deployment of an updated annual documentation certification process supporting over 100 globally distributed sites, resulting in significant cost avoidance for the organization
+        details: 
       
       - role: Community Strategist
         time: 2013 - 2015
         company: DSA, Inc.
-        details: |
-          stuff
+        details: 
       
       - role: User Research
         time: 2011 - 2013
         company: DSA, Inc.
-        details: |
-          - Conducted extensive user and customer research to inform the migration of a large community of practice (CoP) from a legacy system to milSuite, resulting in significant, immediate cost savings and long-term cost avoidance for the Army
-          
+        details:           
       
 hackathons:      
     title: Hackathons 
